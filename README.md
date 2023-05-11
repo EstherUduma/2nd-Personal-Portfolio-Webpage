@@ -5,7 +5,7 @@ This project is the first portfolio i built to show some of the things i have le
 This website was built from scratch as an assignment for a course i was taking at the time.<br/>
 
 <h2>Hosted Page Link</h2>
-https://estherannportfolio.esther-annann.repl.co
+https://estheruduma.github.io/2nd-Personal-Portfolio-Webpage/
 
 <h2>Languages and Utilities Used</h2>
 
